@@ -81,8 +81,6 @@ Descubre nuestras variedades:
 
 ## 📬 Contacto
 
-- **Dirección:** Av. uwu 123, Ciudad uwu
-- **Correo:** info@uwuwuwuw.com
 - **Teléfono:** +51 932 244 152
 
 ---
